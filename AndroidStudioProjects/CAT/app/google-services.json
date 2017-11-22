@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "813098566623",
+    "firebase_url": "https://chaton-e0aff.firebaseio.com",
+    "project_id": "chaton-e0aff",
+    "storage_bucket": "chaton-e0aff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813098566623:android:de899b9087e07b4d",
+        "android_client_info": {
+          "package_name": "com.a000webhostapp.prakharlondhe123.cat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813098566623-p8fstfhe0el7r4p541clqjjpvjkpuhv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY-9vHAqU5L5wsgBxSR_JmldNpiNwCRWU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
